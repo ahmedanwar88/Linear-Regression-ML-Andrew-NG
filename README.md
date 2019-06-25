@@ -1,2 +1,2 @@
 # Linear-Regression-ML-Andrew-NG
-This is the first assignment in the course : Machine Learning, by Andrew NG @ Coursera _ Stanford University_
+This is the first assignment in the course : Machine Learning, by Andrew NG @ Coursera _ Stanford University_ done in Python.
